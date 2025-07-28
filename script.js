@@ -1,5 +1,5 @@
 const API_KEY = 'dca61bcc';
-const API_URL = 'http://www.omdbapi.com/';
+const API_URL = 'https://www.omdbapi.com/';
 
 
 $('.search-button').on('click', function () {
